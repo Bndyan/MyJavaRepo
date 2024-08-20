@@ -2,7 +2,7 @@ package javaprogramm;
 /**
  *
  *
- * 
+ *
  */
 
 import java.io.File;
