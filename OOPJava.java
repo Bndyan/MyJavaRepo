@@ -10,8 +10,8 @@ package javaprogramm;
 public class OOPJava {
     public static void main(String[] args) {
 
-        Hunde dutcheHund = new Hunde();
-        dutcheHund.bellen();
+        Hunde objektHund = new Hunde();
+        objektHund.bellen();
 
     }
 }
