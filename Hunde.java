@@ -16,7 +16,7 @@ public class Hunde {
 
 
     // Methoden
-    public void  bellen(){
+    public void bellen(){
         System.out.println("Wuff Wuff");
     }
 }
